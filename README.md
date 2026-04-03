@@ -17,7 +17,9 @@ It checks for the following permissions:
 - Send As  
 - Send on Behalf
 
-Designed for IT administrators who need a quick and reliable way to audit user access to shared mailboxes.
+It displays the results on screen once and exports them to:
+SharedMailboxAccess_<User>_<YYYY-MM-DD>.csv
+in the same folder where the script is located.
 
 ---
 
