@@ -18,8 +18,7 @@ It checks for the following permissions:
 - Send on Behalf
 
 It displays the results on screen once and exports them to:
-SharedMailboxAccess_<User>_<YYYY-MM-DD>.csv
-in the same folder where the script is located.
+**SharedMailboxAccess_<User>_<YYYY-MM-DD>.csv** in the same folder where the script is located.
 
 ---
 
